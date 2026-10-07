@@ -1,0 +1,5 @@
+Brand logos are used to identify creative tools and contact services, without implying endorsement.
+Canva, Gemini, Google, OpenAI, Instagram and Gmail: https://github.com/pheralb/svgl/tree/main/static/library
+NotebookLM and WhatsApp: https://github.com/simple-icons/simple-icons/tree/develop/icons
+CapCut: https://commons.wikimedia.org/wiki/File:Capcut-icon.svg (public-domain simple geometry)
+Monochrome treatment is applied by CSS; the original retrieved artwork is displayed on hover/focus.
